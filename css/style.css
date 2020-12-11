@@ -19,6 +19,7 @@ font-size:12px ;
 
  .Cnx{
 
+
  }
 .partie1{
   margin:30px;
@@ -38,7 +39,7 @@ text-align: center;
 margin-top:50px;
 margin-bottom:0;
 padding-top:40px;
-font-size:38px;
+font-size:40px;
 color: rgb(32, 50, 51);
 line-height: 38px;
 }
@@ -48,7 +49,7 @@ line-height: 38px;
 }
 .col .partie3{
   padding:20px;
-  background:rgb(198, 247, 247);
+  background:rgb(173, 241, 241);
 }
 
 .card-img-top{
